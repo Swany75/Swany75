@@ -3,9 +3,11 @@
 - 🌱 Estic estudiant el 2n any de sistemes microinformàtics i xarxes a Manacor
 - 👩‍💻 No se programar, me dedicare a robar codi fins que n'aprengui
 - 💞️ Faig caca a nes vater
-- 📫 Si voleu contactar amb jo podeu xerrarme per 
-    /discord: swany#6703 
-    /mail: juandalmausantandreu@gmail.com
+- 📫 Si voleu contactar amb jo podeu xerrarme per:
+
+      · 🤖 Discord: swany#6703 
+      · 📩 Mail: juandalmausantandreu@gmail.com
+      . 🐦 Twitter: 75Johnnyjr
 
 <!---
 🍌Platano🍌
