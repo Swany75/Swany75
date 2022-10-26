@@ -1,4 +1,4 @@
-- 👋 Hola! Som en Juan Dalmau, som de Santa Margalida però Son Serra mola més i m'agradaria viurer allà
+- 👋 Hola! Som en Juan Dalmau, som de Santa Margalida però Son Serra mola més
 - 👀 Estic aprenent una mica amb Unity, C# pel meu compte
 - 🤑 I enguany aprendre HTML i CSS (crec)
 - 🌱 Estic estudiant el 2n any de sistemes microinformàtics i xarxes a Manacor
