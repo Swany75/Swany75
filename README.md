@@ -7,7 +7,7 @@
 
       · 🤖 Discord: swany#6703 
       · 📩 Mail: juandalmausantandreu@gmail.com
-      . 🐦 Twitter: 75Johnnyjr
+      . 🐦 Twitter: juandalmau75
     
 THE WITCHER TENDRA REMAKE LET'S FUCKING GO!
 
