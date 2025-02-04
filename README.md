@@ -1,4 +1,4 @@
 <div align="center">
 <h1 align="center">Juan Dalmau</h1>
-![alt text](giphy.gif)
+<img src="giphy.gif" alt="Descripción del GIF" />
 </div>
