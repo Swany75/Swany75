@@ -37,7 +37,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg"
     alt="Arch Linux" width="50" height="50"/>
     <!-- Windows -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png"
     alt="Windows" width="50" height="50"/>
     <h3>Databases</h3>
     <!-- MySQL -->
