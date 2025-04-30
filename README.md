@@ -1,6 +1,5 @@
 # Hi, I am Juan 🐦‍🔥
 
 <div align="center"> 
-    <h2>˗ˋˏWelcome to my profileˎˊ˗</h2>
-    <img src="img/mudkip.gif" alt="Mudkip GIF"/>
+![Sin título (6)](https://github.com/user-attachments/assets/18be8ef1-7938-405b-b987-290b9cd246bb)
 </div>
